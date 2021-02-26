@@ -1,11 +1,11 @@
 {
   "root": true,
   "api": {
-    "projectId": "9nhae6b7",
+    "projectId": "lhmbarc8",
     "dataset": "production"
   },
   "project": {
-    "name": "Gatsby Demo",
+    "name": "the journey of lux",
     "basePath": "/"
   },
   "plugins": [
